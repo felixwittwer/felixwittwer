@@ -6,3 +6,13 @@ In addition, I'm looking to collaborate with @PilotHaribo on further CASIO proje
 Furthermore, I'm publishing my projects so that others can use them and maybe learn from it.<br>
 <br>
 Development is key.
+
+Idicator    Status      Project
+  🟢        active      casio_quadratic_equation_generator
+  🟢        active      casio_InputLib
+  🔵        paused      casio_cas
+  ⚫       finished     casio_astronomy_tools
+  
+  🟣        plande      casio_solve_the_triangle
+  🟣        planed      casio_extended_sdk_manuals
+  
