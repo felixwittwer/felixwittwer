@@ -15,4 +15,5 @@ Development is key.
 | ⚫         | finished | casio_astronomy_tools            |
 | 🟣         | planed | casio_solve_the_triangle          |
 | 🟣         | planed | casio_extended_sdk_manuals        |
+| 🟣         | planed | program for rendering chemical formulas        |
 
