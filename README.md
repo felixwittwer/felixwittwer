@@ -13,6 +13,7 @@ Development is key.
 | 🔵         | paused | casio_cas                          |
 | ⬛         | finished | casio_quadratic_equation_generator|
 | ⚫         | finished | casio_astronomy_tools            |
+| 🟪         | soon | casio_throw_simulation            |
 | 🟣         | planed | casio_solve_the_triangle          |
 | 🟣         | planed | casio_extended_sdk_manuals        |
 | 🟣         | planed | program for rendering chemical formulas        |
