@@ -9,8 +9,8 @@ Development is key.
 
 | Indicator | Status | Project                            |
 |-----------|--------|------------------------------------|
-| 🟢         | active | casio_InputLib                     |
 | 🟢         | active | casio_throw_simulation            |
+| 🟢         | active | casio_InputLib                     |
 | 🔵         | paused | casio_cas                          |
 | ⬛         | finished | casio_quadratic_equation_generator|
 | ⚫         | finished | casio_astronomy_tools            |
