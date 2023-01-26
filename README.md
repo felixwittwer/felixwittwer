@@ -14,7 +14,7 @@ Development is key.
 | ⬛         | finished | casio_quadratic_equation_generator|
 | ⚫         | active | casio_throw_simulation            |
 | ⚫         | finished | casio_astronomy_tools            |
-| 🟣         | planed | DNA RNA translator genetic engineering          |
+| 🟣         | planed | DNA RNA translator - genetic engineering          |
 | 🟣         | planed | casio_extended_sdk_manuals        |
 | 🟣         | planed | program for rendering chemical formulas        |
 
