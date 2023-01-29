@@ -10,10 +10,10 @@ Development is key.
 | Indicator | Status | Project                            |
 |-----------|--------|------------------------------------|
 | 🟢         | active | casio_InputLib                     |
-| 🟢         | planed | DNA RNA translator - genetic engineering          |
+| 🟢         | active | DNA RNA translator - genetic engineering          |
 | 🔵         | paused | casio_cas                          |
 | ⬛         | finished | casio_quadratic_equation_generator|
-| ⚫         | active | casio_throw_simulation            |
+| ⚫         | finished | casio_throw_simulation            |
 | ⚫         | finished | casio_astronomy_tools            |
 | 🟣         | planed | casio_extended_sdk_manuals        |
 | 🟣         | planed | program for rendering chemical formulas        |
