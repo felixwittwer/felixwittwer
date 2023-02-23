@@ -5,6 +5,10 @@ I’m currently working on a oscillation and wave calculator for the CASIO fx-98
 In addition, I'm looking forward to collaborate with others on further CASIO projects.<br>
 I'm publishing my projects so that others can use them and maybe learn from it.<br>
 <br>
+Best CAS for CASIO CG10/20/50 and fx-9750 GIII, fx-9860 GIII:<br>
+https://www-fourier.ujf-grenoble.fr/~parisse/install_en#casio <br>
+(!DISCLAIMER! I am not responsible for the content of the linked website! Use at your own risk)<br>
+<br>
 Development is key.
 
 | Indicator | Status | Project                            |
