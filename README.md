@@ -20,6 +20,7 @@ Development is key.
 | ⚫         | finished | DNA RNA translator - genetic engineering          |
 | ⚫         | finished | casio_throw_simulation            |
 | ⚫         | finished | casio_astronomy_tools            |
+| 🟣         | planed | genetic tree analysis - genetic engineering          |
 | 🟣         | planed | casio_extended_sdk_manuals        |
 | 🟣         | planed | casio_gravitygame                 |
 | 🟣         | planed | hp_prime                         |
