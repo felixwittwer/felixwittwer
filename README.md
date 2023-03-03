@@ -21,6 +21,7 @@ Development is key.
 | ⚫         | finished | casio_throw_simulation            |
 | ⚫         | finished | casio_astronomy_tools            |
 | 🟣         | planed | genetic tree analysis - genetic engineering          |
+| 🟣         | planed | Free Pascal cheatsheet                         |
 | 🟣         | planed | casio_extended_sdk_manuals        |
 | 🟣         | planed | casio_gravitygame                 |
 | 🟣         | planed | hp_prime                         |
