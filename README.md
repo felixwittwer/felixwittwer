@@ -13,10 +13,10 @@ Development is key.
 
 | Indicator | Status | Project                            |
 |-----------|--------|------------------------------------|
+| 🟢         | active | casio_conways_game_of_life                   |
+| 🟢         | active | casio_3D_renderer                   |
 | 🟢         | active | casio_InputLib                     |
 | 🟢         | active | casio_oscillation_waves          |
-| 🟢         | active | casio_3D_renderer                   |
-| 🟢         | active | casio_conways_game_of_life                   |
 | ⬛         | finished | lazarus_cheatsheet                         |
 | ⬛         | finished | casio_quadratic_equation_generator|
 | ⚫         | finished | DNA RNA translator - genetic engineering          |
@@ -24,4 +24,3 @@ Development is key.
 | ⚫         | finished | casio_astronomy_tools            |
 | 🟣         | planed | casio_extended_sdk_manuals        |
 | 🟣         | planed | casio_gravitygame                 |
-| 🟣         | planed | hp_prime                         |
