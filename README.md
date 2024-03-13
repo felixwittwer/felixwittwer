@@ -7,17 +7,3 @@ I'm publishing my projects so that everybody can use them and maybe learn from t
 <br>
 <br>
 Development is key.
-
-| Indicator | Status | Project                            |
-|-----------|--------|------------------------------------|
-| 🟢         | active | casio_conways_game_of_life                   |
-| 🟢         | active | casio_3D_renderer                   |
-| 🟢         | active | casio_InputLib                     |
-| 🟢         | active | casio_oscillation_waves          |
-| ⬛         | finished | lazarus_cheatsheet                         |
-| ⬛         | finished | casio_quadratic_equation_generator|
-| ⚫         | finished | DNA RNA translator - genetic engineering          |
-| ⚫         | finished | casio_throw_simulation            |
-| ⚫         | finished | casio_astronomy_tools            |
-| 🟣         | planed | casio_extended_sdk_manuals        |
-| 🟣         | planed | casio_gravitygame                 |
