@@ -1,8 +1,9 @@
-Hi,<br>
-I'm Felix, a German grammar school student.<br>
-<br>
-I’m currently working on a list of programs for the CASIO fx-9860 GII and GIII Series.<br>
-Besides I'm looking forward to collaborate with others on future projects.<br>
-<br>
-<br>
+Hi, I'm **`Felix`**
+
+Studying Coputer Science at Technical University Dresden.
+
+> [!WARNING]
+> Be aware that you may find cool, crazzy and silly repositories on my profile. Besides all the Casio Calculator programs written in Casio BASIC, C and Assembly there are also some maker projects, projects with Homeassistant stuff and also "fun" projects. ;)  
+> **Enjoy your time wondering thorugh my repos!**
+  
 Development is key.
